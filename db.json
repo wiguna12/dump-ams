@@ -1,14 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "user-managment": [
+        {
+            "message": "Success getting data.",
+            "data": [
+                {
+                    "id": 11,
+                    "title": "The Great Gatsby",
+                    "author": "F. Scott Fitzgerald"
+                }
+            ],
+            "per_page": 20,
+            "total_data": 100,
+            "page": 1
+        },
+        {
+            "message": "Success getting data.",
+            "data": [
+                {
+                    "id": 11,
+                    "title": "The Great Gatsby",
+                    "author": "F. Scott Fitzgerald"
+                }
+            ],
+            "per_page": 20,
+            "total_data": 100,
+            "page": 2
+        }
+    ]
 }
