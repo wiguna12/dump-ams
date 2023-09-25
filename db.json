@@ -1,92 +1,38 @@
 {
-    "user-managment": [
+    "message": "Success getting data.",
+    "data": [
         {
-            "message": "Success getting data.",
-            "data": [
-                {
-                    "id": 3,
-                    "name": "To Kill a Mockingbird",
-                    "email": "harper.lee@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 4,
-                    "name": "Pride and Prejudice",
-                    "email": "jane.austen@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 5,
-                    "name": "1984",
-                    "email": "george.orwell@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 6,
-                    "name": "Brave New World",
-                    "email": "aldous.huxley@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 7,
-                    "name": "The Catcher in the Rye",
-                    "email": "j.d.salinger@example.com",
-                    "status": "Non Aktif"
-                }
-            ],
-            "per_page": 5,
-            "total_data": 5,
-            "page": 1
+            "id": 3,
+            "name": "To Kill a Mockingbird",
+            "email": "harper.lee@example.com",
+            "status": "Aktif"
+        },
+        {
+            "id": 4,
+            "name": "Pride and Prejudice",
+            "email": "jane.austen@example.com",
+            "status": "Non Aktif"
+        },
+        {
+            "id": 5,
+            "name": "1984",
+            "email": "george.orwell@example.com",
+            "status": "Aktif"
+        },
+        {
+            "id": 6,
+            "name": "Brave New World",
+            "email": "aldous.huxley@example.com",
+            "status": "Aktif"
+        },
+        {
+            "id": 7,
+            "name": "The Catcher in the Rye",
+            "email": "j.d.salinger@example.com",
+            "status": "Non Aktif"
         }
     ],
-    "requeat-access": [
-        {
-            "status": true,
-            "message": "Success Getting Request Access Data.",
-            "data": [
-                {
-                    "id": 1,
-                    "user": "user1",
-                    "request_time": "2023-07-19 01:00:00",
-                    "request_status": "Approved",
-                    "approver_name": "admin"
-                },
-                {
-                    "id": 2,
-                    "user": "user2",
-                    "request_time": "2023-07-20 02:00:00",
-                    "request_status": "Approved",
-                    "approver_name": "admin"
-                },
-                {
-                    "id": 3,
-                    "user": "user3",
-                    "request_time": "2023-07-21 03:00:00",
-                    "request_status": "Pending",
-                    "approver_name": "manager"
-                },
-                {
-                    "id": 4,
-                    "user": "user4",
-                    "request_time": "2023-07-22 04:00:00",
-                    "request_status": "Pending",
-                    "approver_name": "manager"
-                },
-                {
-                    "id": 5,
-                    "user": "user5",
-                    "request_time": "2023-07-23 05:00:00",
-                    "request_status": "Rejected",
-                    "approver_name": "supervisor"
-                }
-            ],
-            "per_page": 5,
-            "total_data": 5,
-            "page": 1,
-            "next_url": "",
-            "prev_url": null,
-            "last_page_url": "",
-            "first_page_url": ""
-        }
-    ]
+    "per_page": 5,
+    "total_data": 5,
+    "page": 1
 }
