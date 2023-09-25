@@ -1,5 +1,5 @@
 {
-    "user-managment": [
+    "users": [
         {
             "message": "Success getting data.",
             "data": [
@@ -117,7 +117,7 @@
             "page": 1
         }
     ],
-    "request-access": [
+    "access": [
         {
             "message": "Success getting data.",
             "data": [
