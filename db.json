@@ -32,217 +32,11 @@
                     "name": "The Catcher in the Rye",
                     "email": "j.d.salinger@example.com",
                     "status": "Non Aktif"
-                },
-                {
-                    "id": 8,
-                    "name": "The Hobbit",
-                    "email": "j.r.r.tolkien@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 9,
-                    "name": "To Kill a Mockingbird",
-                    "email": "harper.lee@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 10,
-                    "name": "War and Peace",
-                    "email": "leo.tolstoy@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 11,
-                    "name": "Moby-Dick",
-                    "email": "herman.melville@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 12,
-                    "name": "The Great Gatsby",
-                    "email": "f.scott.fitzgerald@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 13,
-                    "name": "To Kill a Mockingbird",
-                    "email": "harper.lee@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 14,
-                    "name": "Frankenstein",
-                    "email": "mary.shelley@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 15,
-                    "name": "The Odyssey",
-                    "email": "homer@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 16,
-                    "name": "One Hundred Years of Solitude",
-                    "email": "gabriel.garcia.marquez@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 17,
-                    "name": "The Lord of the Rings",
-                    "email": "j.r.r.tolkien@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 18,
-                    "name": "Alice's Adventures in Wonderland",
-                    "email": "lewis.carroll@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 19,
-                    "name": "Pride and Prejudice",
-                    "email": "jane.austen@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 20,
-                    "name": "Moby-Dick",
-                    "email": "herman.melville@example.com",
-                    "status": "Aktif"
                 }
             ],
-            "per_page": 20,
-            "total_data": 40,
+            "per_page": 5,
+            "total_data": 5,
             "page": 1
-        },
-        {
-            "message": "Success getting data.",
-            "data": [
-                {
-                    "id": 21,
-                    "name": "The Alchemist",
-                    "email": "paulo.coelho@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 22,
-                    "name": "To Kill a Mockingbird",
-                    "email": "harper.lee@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 23,
-                    "name": "The Shining",
-                    "email": "stephen.king@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 24,
-                    "name": "The Catcher in the Rye",
-                    "email": "j.d.salinger@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 25,
-                    "name": "War and Peace",
-                    "email": "leo.tolstoy@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 26,
-                    "name": "Moby-Dick",
-                    "email": "herman.melville@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 27,
-                    "name": "1984",
-                    "email": "george.orwell@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 28,
-                    "name": "One Hundred Years of Solitude",
-                    "email": "gabriel.garcia.marquez@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 29,
-                    "name": "The Lord of the Rings",
-                    "email": "j.r.r.tolkien@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 30,
-                    "name": "Alice's Adventures in Wonderland",
-                    "email": "lewis.carroll@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 31,
-                    "name": "The Great Gatsby",
-                    "email": "f.scott.fitzgerald@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 32,
-                    "name": "To Kill a Mockingbird",
-                    "email": "harper.lee@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 33,
-                    "name": "Frankenstein",
-                    "email": "mary.shelley@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 34,
-                    "name": "The Odyssey",
-                    "email": "homer@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 35,
-                    "name": "The Great Gatsby",
-                    "email": "f.scott.fitzgerald@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 36,
-                    "name": "Pride and Prejudice",
-                    "email": "jane.austen@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 37,
-                    "name": "Brave New World",
-                    "email": "aldous.huxley@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 38,
-                    "name": "The Hobbit",
-                    "email": "j.r.r.tolkien@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 39,
-                    "name": "The Alchemist",
-                    "email": "paulo.coelho@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 40,
-                    "name": "The Shining",
-                    "email": "stephen.king@example.com",
-                    "status": "Non Aktif"
-                }
-            ],
-            "per_page": 20,
-            "total_data": 40,
-            "page": 2
         }
     ],
     "requeat-access": [
@@ -251,113 +45,43 @@
             "message": "Success Getting Request Access Data.",
             "data": [
                 {
-                    "id": "1",
+                    "id": 1,
                     "user": "user1",
                     "request_time": "2023-07-19 01:00:00",
                     "request_status": "Approved",
                     "approver_name": "admin"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
                     "user": "user2",
                     "request_time": "2023-07-20 02:00:00",
                     "request_status": "Approved",
                     "approver_name": "admin"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
                     "user": "user3",
                     "request_time": "2023-07-21 03:00:00",
                     "request_status": "Pending",
                     "approver_name": "manager"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
                     "user": "user4",
                     "request_time": "2023-07-22 04:00:00",
                     "request_status": "Pending",
                     "approver_name": "manager"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
                     "user": "user5",
                     "request_time": "2023-07-23 05:00:00",
                     "request_status": "Rejected",
                     "approver_name": "supervisor"
-                },
-                {
-                    "id": "6",
-                    "user": "user6",
-                    "request_time": "2023-07-24 06:00:00",
-                    "request_status": "Rejected",
-                    "approver_name": "supervisor"
-                },
-                {
-                    "id": "7",
-                    "user": "user7",
-                    "request_time": "2023-07-25 07:00:00",
-                    "request_status": "Revoked",
-                    "approver_name": "director"
-                },
-                {
-                    "id": "8",
-                    "user": "user8",
-                    "request_time": "2023-07-26 08:00:00",
-                    "request_status": "Revoked",
-                    "approver_name": "director"
-                },
-                {
-                    "id": "9",
-                    "user": "user9",
-                    "request_time": "2023-07-27 09:00:00",
-                    "request_status": "Approved",
-                    "approver_name": "admin"
-                },
-                {
-                    "id": "10",
-                    "user": "user10",
-                    "request_time": "2023-07-28 10:00:00",
-                    "request_status": "Approved",
-                    "approver_name": "admin"
-                },
-                {
-                    "id": "11",
-                    "user": "user11",
-                    "request_time": "2023-07-29 11:00:00",
-                    "request_status": "Pending",
-                    "approver_name": "manager"
-                },
-                {
-                    "id": "12",
-                    "user": "user12",
-                    "request_time": "2023-07-30 12:00:00",
-                    "request_status": "Pending",
-                    "approver_name": "manager"
-                },
-                {
-                    "id": "13",
-                    "user": "user13",
-                    "request_time": "2023-07-31 13:00:00",
-                    "request_status": "Rejected",
-                    "approver_name": "supervisor"
-                },
-                {
-                    "id": "14",
-                    "user": "user14",
-                    "request_time": "2023-08-01 14:00:00",
-                    "request_status": "Revoked",
-                    "approver_name": "director"
-                },
-                {
-                    "id": "15",
-                    "user": "user15",
-                    "request_time": "2023-08-02 15:00:00",
-                    "request_status": "Revoked",
-                    "approver_name": "director"
                 }
             ],
             "per_page": 5,
-            "total_data": 15,
+            "total_data": 5,
             "page": 1,
             "next_url": "",
             "prev_url": null,
