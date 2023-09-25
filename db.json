@@ -118,6 +118,121 @@
         }
     ],
     "request-access": [
-        
+        {
+            "message": "Success getting data.",
+            "data": [
+                {
+                    "id": 3,
+                    "name": "To Kill a Mockingbird",
+                    "email": "harper.lee@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 4,
+                    "name": "Pride and Prejudice",
+                    "email": "jane.austen@example.com",
+                    "status": "Non Aktif"
+                },
+                {
+                    "id": 5,
+                    "name": "1984",
+                    "email": "george.orwell@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 6,
+                    "name": "Brave New World",
+                    "email": "aldous.huxley@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 7,
+                    "name": "The Catcher in the Rye",
+                    "email": "j.d.salinger@example.com",
+                    "status": "Non Aktif"
+                },
+                {
+                    "id": 8,
+                    "name": "The Hobbit",
+                    "email": "j.r.r.tolkien@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 9,
+                    "name": "To Kill a Mockingbird",
+                    "email": "harper.lee@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 10,
+                    "name": "War and Peace",
+                    "email": "leo.tolstoy@example.com",
+                    "status": "Non Aktif"
+                },
+                {
+                    "id": 11,
+                    "name": "Moby-Dick",
+                    "email": "herman.melville@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 12,
+                    "name": "The Great Gatsby",
+                    "email": "f.scott.fitzgerald@example.com",
+                    "status": "Non Aktif"
+                },
+                {
+                    "id": 13,
+                    "name": "To Kill a Mockingbird",
+                    "email": "harper.lee@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 14,
+                    "name": "Frankenstein",
+                    "email": "mary.shelley@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 15,
+                    "name": "The Odyssey",
+                    "email": "homer@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 16,
+                    "name": "One Hundred Years of Solitude",
+                    "email": "gabriel.garcia.marquez@example.com",
+                    "status": "Non Aktif"
+                },
+                {
+                    "id": 17,
+                    "name": "The Lord of the Rings",
+                    "email": "j.r.r.tolkien@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 18,
+                    "name": "Alice's Adventures in Wonderland",
+                    "email": "lewis.carroll@example.com",
+                    "status": "Aktif"
+                },
+                {
+                    "id": 19,
+                    "name": "Pride and Prejudice",
+                    "email": "jane.austen@example.com",
+                    "status": "Non Aktif"
+                },
+                {
+                    "id": 20,
+                    "name": "Moby-Dick",
+                    "email": "herman.melville@example.com",
+                    "status": "Aktif"
+                }
+            ],
+            "per_page": 20,
+            "total_data": 40,
+            "page": 1
+        }
     ]
 }
