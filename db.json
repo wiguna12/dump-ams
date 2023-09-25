@@ -122,113 +122,113 @@
             "message": "Success getting data.",
             "data": [
                 {
-                    "id": "1",
+                    "id": 1,
                     "user": "user1",
                     "request_time": "2023-07-19 01:00:00",
                     "request_status": "Approved",
                     "approver_name": "admin"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
                     "user": "user2",
                     "request_time": "2023-07-20 02:00:00",
                     "request_status": "Approved",
                     "approver_name": "admin"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
                     "user": "user3",
                     "request_time": "2023-07-21 03:00:00",
                     "request_status": "Pending",
                     "approver_name": "manager"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
                     "user": "user4",
                     "request_time": "2023-07-22 04:00:00",
                     "request_status": "Pending",
                     "approver_name": "manager"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
                     "user": "user5",
                     "request_time": "2023-07-23 05:00:00",
                     "request_status": "Rejected",
                     "approver_name": "supervisor"
                 },
                 {
-                    "id": "6",
+                    "id": 6,
                     "user": "user6",
                     "request_time": "2023-07-24 06:00:00",
                     "request_status": "Rejected",
                     "approver_name": "supervisor"
                 },
                 {
-                    "id": "7",
+                    "id": 7,
                     "user": "user7",
                     "request_time": "2023-07-25 07:00:00",
                     "request_status": "Revoked",
                     "approver_name": "director"
                 },
                 {
-                    "id": "8",
+                    "id": 8,
                     "user": "user8",
                     "request_time": "2023-07-26 08:00:00",
                     "request_status": "Revoked",
                     "approver_name": "director"
                 },
                 {
-                    "id": "9",
+                    "id": 9,
                     "user": "user9",
                     "request_time": "2023-07-27 09:00:00",
                     "request_status": "Approved",
                     "approver_name": "admin"
                 },
                 {
-                    "id": "10",
+                    "id": 10,
                     "user": "user10",
                     "request_time": "2023-07-28 10:00:00",
                     "request_status": "Approved",
                     "approver_name": "admin"
                 },
                 {
-                    "id": "11",
+                    "id": 11,
                     "user": "user11",
                     "request_time": "2023-07-29 11:00:00",
                     "request_status": "Pending",
                     "approver_name": "manager"
                 },
                 {
-                    "id": "12",
+                    "id": 12,
                     "user": "user12",
                     "request_time": "2023-07-30 12:00:00",
                     "request_status": "Pending",
                     "approver_name": "manager"
                 },
                 {
-                    "id": "13",
+                    "id": 13,
                     "user": "user13",
                     "request_time": "2023-07-31 13:00:00",
                     "request_status": "Rejected",
                     "approver_name": "supervisor"
                 },
                 {
-                    "id": "14",
+                    "id": 14,
                     "user": "user14",
                     "request_time": "2023-08-01 14:00:00",
                     "request_status": "Revoked",
                     "approver_name": "director"
                 },
                 {
-                    "id": "15",
+                    "id": 15,
                     "user": "user15",
                     "request_time": "2023-08-02 15:00:00",
                     "request_status": "Revoked",
                     "approver_name": "director"
                 }
             ],
-            "per_page": 20,
-            "total_data": 40,
+            "per_page": 15,
+            "total_data": 15,
             "page": 1
         }
     ]
