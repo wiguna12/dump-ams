@@ -155,7 +155,16 @@
                     "request_time": "2023-07-23 05:00:00",
                     "request_status": "Rejected",
                     "approver_name": "supervisor"
-                },
+                }
+            ],
+            "per_page": 5,
+            "total_data": 10,
+            "total_page": 2,
+            "page": 1
+        },
+        {
+            "message": "Success getting data.",
+            "data": [
                 {
                     "id": 6,
                     "user": "user6",
@@ -190,46 +199,12 @@
                     "request_time": "2023-07-28 10:00:00",
                     "request_status": "Approved",
                     "approver_name": "admin"
-                },
-                {
-                    "id": 11,
-                    "user": "user11",
-                    "request_time": "2023-07-29 11:00:00",
-                    "request_status": "Pending",
-                    "approver_name": "manager"
-                },
-                {
-                    "id": 12,
-                    "user": "user12",
-                    "request_time": "2023-07-30 12:00:00",
-                    "request_status": "Pending",
-                    "approver_name": "manager"
-                },
-                {
-                    "id": 13,
-                    "user": "user13",
-                    "request_time": "2023-07-31 13:00:00",
-                    "request_status": "Rejected",
-                    "approver_name": "supervisor"
-                },
-                {
-                    "id": 14,
-                    "user": "user14",
-                    "request_time": "2023-08-01 14:00:00",
-                    "request_status": "Revoked",
-                    "approver_name": "director"
-                },
-                {
-                    "id": 15,
-                    "user": "user15",
-                    "request_time": "2023-08-02 15:00:00",
-                    "request_status": "Revoked",
-                    "approver_name": "director"
                 }
             ],
-            "per_page": 15,
-            "total_data": 15,
-            "page": 1
+            "per_page": 5,
+            "total_data": 10,
+            "total_page": 2,
+            "page": 2
         }
     ]
 }
