@@ -32,7 +32,16 @@
                     "name": "The Catcher in the Rye",
                     "email": "j.d.salinger@example.com",
                     "status": "Non Aktif"
-                },
+                }
+            ],
+            "per_page": 5,
+            "total_data": 10,
+            "total_page": 2,
+            "page": 1
+        },
+        {
+            "message": "Success getting data.",
+            "data": [
                 {
                     "id": 8,
                     "name": "The Hobbit",
@@ -62,59 +71,12 @@
                     "name": "The Great Gatsby",
                     "email": "f.scott.fitzgerald@example.com",
                     "status": "Non Aktif"
-                },
-                {
-                    "id": 13,
-                    "name": "To Kill a Mockingbird",
-                    "email": "harper.lee@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 14,
-                    "name": "Frankenstein",
-                    "email": "mary.shelley@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 15,
-                    "name": "The Odyssey",
-                    "email": "homer@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 16,
-                    "name": "One Hundred Years of Solitude",
-                    "email": "gabriel.garcia.marquez@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 17,
-                    "name": "The Lord of the Rings",
-                    "email": "j.r.r.tolkien@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 18,
-                    "name": "Alice's Adventures in Wonderland",
-                    "email": "lewis.carroll@example.com",
-                    "status": "Aktif"
-                },
-                {
-                    "id": 19,
-                    "name": "Pride and Prejudice",
-                    "email": "jane.austen@example.com",
-                    "status": "Non Aktif"
-                },
-                {
-                    "id": 20,
-                    "name": "Moby-Dick",
-                    "email": "herman.melville@example.com",
-                    "status": "Aktif"
                 }
             ],
-            "per_page": 20,
-            "total_data": 40,
-            "page": 1
+            "per_page": 5,
+            "total_data": 10,
+            "total_page": 2,
+            "page": 2
         }
     ],
     "access": [
