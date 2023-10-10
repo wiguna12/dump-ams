@@ -168,5 +168,95 @@
             "total_page": 2,
             "page": 2
         }
+    ],
+    "history": [
+        {
+            "message": "Success getting data.",
+            "data": [
+                {
+                    "id": 1,
+                    "user": "Wayan",
+                    "date": "10-10-2023 12:17:17",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F)",
+                    "validation_status": "Valid"
+                },
+                {
+                    "id": 2,
+                    "user": "Made",
+                    "date": "10-10-2023 12:17:17",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F)",
+                    "validation_status": "Invalid"
+                },
+                {
+                    "id": 3,
+                    "user": "Ketut",
+                    "date": "15-10-2023 10:30:45",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G975F)",
+                    "validation_status": "Valid"
+                },
+                {
+                    "id": 4,
+                    "user": "Nyoman",
+                    "date": "18-10-2023 14:22:30",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 9; SM-G975F)",
+                    "validation_status": "Invalid"
+                },
+                {
+                    "id": 5,
+                    "user": "Komang",
+                    "date": "20-10-2023 08:45:12",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 8; SM-G975F)",
+                    "validation_status": "Valid"
+                }
+            ],
+            "per_page": 5,
+            "total_data": 10,
+            "total_page": 2,
+            "page": 1
+        },
+        {
+            "message": "Success getting data.",
+            "data": [
+                {
+                    "id": 6,
+                    "user": "Putu",
+                    "date": "22-10-2023 17:12:59",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 8; SM-G975F)",
+                    "validation_status": "Invalid"
+                },
+                {
+                    "id": 7,
+                    "user": "I Wayan",
+                    "date": "25-10-2023 09:56:27",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 7; SM-G975F)",
+                    "validation_status": "Valid"
+                },
+                {
+                    "id": 8,
+                    "user": "I Made",
+                    "date": "28-10-2023 13:05:38",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 7; SM-G975F)",
+                    "validation_status": "Invalid"
+                },
+                {
+                    "id": 9,
+                    "user": "I Kadek",
+                    "date": "30-10-2023 20:18:10",
+                    "user_agent": "Mozilla/5.0 (Linux; Android 6; SM-G975F)",
+                    "validation_status": "Valid"
+                },
+                {
+                    "id": 10,
+                    "user": "I Nyoman",
+                    "date": "05-11-2023 15:40:05",
+                    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                    "validation_status": "Invalid"
+                }
+            ],
+            "per_page": 5,
+            "total_data": 10,
+            "total_page": 2,
+            "page": 2
+        }
     ]
 }
